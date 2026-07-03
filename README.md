@@ -12,9 +12,9 @@ Develop a text-based Hangman game where the player guesses a hidden word one let
 - Prevents duplicate guesses.
 - Displays win or game-over message.
 
-  ## Concepts Used
-  - Random
-  - While Loop
-  - If-Else
-  - Strings
-  - Lists
+## Concepts Used
+ - Random
+ - While Loop
+ - If-Else
+ - Strings
+ - Lists
